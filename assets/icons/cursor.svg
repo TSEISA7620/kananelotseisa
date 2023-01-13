@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23" height="30" viewBox="0 0 23 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #484848;
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #040f20;
+      }
+
+      .cls-3 {
+        fill: #64ffda;
+      }
+    </style>
+    <filter id="filter" x="-2" y="-1" width="27" height="34" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" stdDeviation="1" in="SourceAlpha"/>
+      <feComposite result="composite"/>
+      <feComposite result="composite-2"/>
+      <feComposite result="composite-3"/>
+      <feFlood result="flood" flood-color="#64ffda" flood-opacity="0.74"/>
+      <feComposite result="composite-4" operator="in" in2="composite-3"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path class="cls-1" d="M0.861,1.33L21.888,14.757l-4,14.342L3.242,26.087Z"/>
+  <path class="cls-2" d="M2.227,3.642L21.513,15.967,17.848,29.121,4.421,26.352Z"/>
+  <path class="cls-3" d="M8.595,13.863a6.713,6.713,0,1,1-2.226,9.208A6.744,6.744,0,0,1,8.595,13.863Z"/>
+  <path id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-2" d="M9.138,14.749a5.674,5.674,0,1,1-1.882,7.782A5.7,5.7,0,0,1,9.138,14.749Z"/>
+</svg>
