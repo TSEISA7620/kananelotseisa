@@ -1,6 +1,6 @@
 # kananelotseisa
 My personal website portfolio
-Developed using Angular 14,
+Developed using HTML,SCSS,JavaScript,Jquery
 
 Plugins used:
 Animate On Scroll JS library.
