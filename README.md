@@ -1,7 +1,7 @@
+(https://media.licdn.com/dms/image/v2/D4E16AQHLpLCHTQuk6Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1673700627930?e=1730332800&v=beta&t=wSu5hQMbXCUW_dLwejlwuEAwJ13VXkYild6waBFYBCw)
 # kananelotseisa
-### Hi there 👋, Kananelo Tseisa
 #### I turn create ideas into even better web apps
-![I turn create ideas into even better web apps](https://media.licdn.com/dms/image/v2/D4E16AQHLpLCHTQuk6Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1673700627930?e=1730332800&v=beta&t=wSu5hQMbXCUW_dLwejlwuEAwJ13VXkYild6waBFYBCw)
+![I turn create ideas into even better web apps]
 
 I'm Kananelo Ts'eisa, a web developer passionate about creating online experiences. I began my journey in 2017, focusing initially on the front end and gradually expanding my skills to include database development, UI design, and coding. I've worked at an ad agency, a start-up, and a large corporation, developing web applications used by major companies in Lesotho. Today, I focus on building accessible, inclusive digital products for a diverse range of clients.
 
